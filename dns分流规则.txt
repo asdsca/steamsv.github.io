@@ -1,0 +1,35 @@
+8.8.8.8:
+   - domain:netflix.com
+   - domain:netflix.net
+   - domain:nflximg.net
+   - domain:nflximg.com
+   - domain:nflxvideo.net
+   - domain:nflxso.net
+   - domain:nflxext.com
+   - domain:scdn.co
+   - domain:spotify.com
+   - domain:spoti.fi
+   - domain:akamaized.net
+   - domain:hulu.com
+   - domain:huluim.com
+   - domain:hulustream.com
+   - domain:hbonow.com
+   - domain:hbogo.com
+   - domain:hbomax.com
+   - domain:hbo.com
+   - domain:disney.com
+   - domain:disneyjunior.com
+   - domain:disneyplus.com
+   - domain:disney-plus.net
+   - domain:dssott.com
+   - domain:bamgrid.com
+   - domain:amazonaws.com
+   - domain:go.com
+   
+8.8.8.8:
+   - domain:bilibili.com
+   - domain:gamer-cds.cdn.hinet.net
+   - domain:gamer2-cds.cdn.hinet.net
+   - domain:gamer.com.tw
+   - domain:i2.bahamut.com.tw
+   - domain:app-measurement.com
